@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vecteezy.com/vector-art/1759768-data-scientist-word-banner)](https://github.com/saurabh9900)
+![logo](https://github.com/saurabh9900/saurabh9900/blob/main/data-scientist-word-banner-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">Data Scientist, who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
