@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">Data Scientist, who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
-<img align="center" alt="Coding" width="400" src="https://cloudfoundation.com/blog/adobe-analytics-tutorial/">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*cXdJh394X6YIzRCvXsaJzg.gif">
 
 
 - 🌱 I’m currently learning **Hadoop, React**
