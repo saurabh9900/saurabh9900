@@ -1,15 +1,15 @@
 ![logo](https://github.com/saurabh9900/saurabh9900/blob/main/data-scientist-word-banner-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
-<h3 align="center">Data Scientist, who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
+<h3 align="center">Data Analyst, who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*cXdJh394X6YIzRCvXsaJzg.gif">
 
 
-- 🌱 I’m currently learning **Hadoop, React**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabh9900](https://github.com/saurabh9900)
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Analyst, SQL, Machine Learning**
 
 - 📫 How to reach me **Saurabhjadhav8008@gmail.com**
 
