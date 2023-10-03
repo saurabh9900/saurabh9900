@@ -1,4 +1,4 @@
-![logo](https://github.com/saurabh9900/saurabh9900/blob/main/data-scientist-word-banner-vector.jpg)
+![logo](https://github.com/saurabh9900/saurabh9900/blob/main/Github_analytics-banner.png)
 
 <h1 align="center">Hi 👋, I'm Saurabh Jadhav</h1>
 <h3 align="center">Data Analyst, who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
